@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-import za.ac.wits.snake.DevelopmentAgent;
 
 public class MyAgent extends DevelopmentAgent  {
 
